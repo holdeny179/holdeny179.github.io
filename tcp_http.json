@@ -3,7 +3,7 @@
         "protocol": "vmess",
         "settings": {
             "vnext": [{
-                "address": "161.35.49.154",
+                "address": "34.70.31.32",
                 "port": 45469,
                 "users": [{
                     "id": "1e131710-9c6b-48cf-a099-b009b8c5f203",
